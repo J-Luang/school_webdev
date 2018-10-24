@@ -5,7 +5,7 @@
 		<title>Deployment Script</title>
 	</head>
 	<body>
-	<p>Deploy script for (Jesse Luangaphayvong)</p>
+	<p>Deploy script for (Put Your Name Here)</p>
 		<pre>
 		
 <?php
